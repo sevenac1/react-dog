@@ -1,0 +1,86 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "584823",
+      "name": "iconfont-members",
+      "font_class": "iconfontmembers",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "996212",
+      "name": "member",
+      "font_class": "member",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "1197126",
+      "name": "worldwide",
+      "font_class": "worldwide",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    },
+    {
+      "icon_id": "1219443",
+      "name": "store",
+      "font_class": "store",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "1293201",
+      "name": "worldwide",
+      "font_class": "worldwide1",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "1512532",
+      "name": "goods_favor_light",
+      "font_class": "goods_favor_light",
+      "unicode": "e7e4",
+      "unicode_decimal": 59364
+    },
+    {
+      "icon_id": "8556395",
+      "name": "shopping-bag-3-line",
+      "font_class": "shopping-bag--line",
+      "unicode": "e7ac",
+      "unicode_decimal": 59308
+    },
+    {
+      "icon_id": "9371338",
+      "name": "箱子",
+      "font_class": "xiangzi",
+      "unicode": "e761",
+      "unicode_decimal": 59233
+    },
+    {
+      "icon_id": "9810506",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "11349080",
+      "name": "goodsnew-l",
+      "font_class": "goodsnew-l",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "11635862",
+      "name": "shopping-bag-3-line",
+      "font_class": "shopping-bag--line1",
+      "unicode": "e784",
+      "unicode_decimal": 59268
+    }
+  ]
+}
