@@ -4,6 +4,7 @@ class Goodgoods extends React.Component{
         return(
             <div>
                 <h2>Goodgoods</h2>
+                <p>2019年11-26</p>
             </div>
         )
     }
